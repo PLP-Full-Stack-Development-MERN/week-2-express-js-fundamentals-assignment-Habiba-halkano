@@ -1,0 +1,16 @@
+{
+  "name": "week-2-express-js-fundamentals-assignment-habiba-halkano",
+  "version": "1.0.0",
+  "description": "**Week 2: Express.js Fundamentals Assignment**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
